@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[margin=1.2in]{geometry}
+
+%Gia to contents
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+%Ellinika
+\usepackage{alphabeta}
+\usepackage[utf8]{inputenc}
+\usepackage[greek, english]{babel}
+
+%Arxiki selida
+\newcommand{\subject}{Subject}
+\newcommand{\descript}{Description}
+\newcommand{\names}{Name 1\\
+       Name 2\\
+       Name 3}
+\newcommand{\lecturer}{Lecturer}
+\newcommand{\lablecturer}{Lab Lecturer}
+\newcommand{\term}{Term year1-year2}
+
+
+
+%Arxi kodika
+\begin{document}
+\include{Titlepage/title}
+\newpage
+\tableofcontents
+\newpage
+\include{Chapters/chapter1}
+\newpage
+
+\begin{multicols}{2}
+\include{Chapters/chapter2}
+
+\end{multicols}
+\newpage
+\include{Chapters/chapter3}
+\newpage
+\end{document}
