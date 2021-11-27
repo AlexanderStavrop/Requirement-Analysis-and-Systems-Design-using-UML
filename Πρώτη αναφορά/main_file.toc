@@ -1,0 +1,27 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
+\contentsline {section}{\numberline {2}Περιγραφή Πλαισίου Έργου}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Πληροφορίες Πελάτη}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Περιγραφή Τρέχοντος Συστήµατος Πελάτη}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Αρχιτεκτονική και Πλατφόρµα Τρέχοντος Συστήµατος}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Πλεονεκτήµατα, Αδυναµίες, Ευκαιρίες και Απειλές}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Εµβέλεια Έργου και Περιορισµοί Κύκλου Έργου}{3}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Ανάλυση Απαιτήσεων Συστήματος}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Λειτουργικές Απαιτήσεις}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Μή Λειτουργικές Απαιτήσεις}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Επιλογές και Προτάσεις}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Κριτήρια Αξιολόγησης Επιλογών}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Εµπορικά Πακέτα Λογισµικού}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Επιλογή Ανάπτυξης Νέου Συστήµατος}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Τελική Πρόταση}{5}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Ανάλυση και Αρχική Σχεδίαση σε UML}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Διαγράµµατα Περιπτώσεων Χρήσης (use case diagrams)}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Διαγράµµατα Δραστηριοτήτων (activity diagrams)}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράµµατα Κλάσεων (Class diagrams)}{6}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Διαγράµµατα Ακολουθίας (sequence diagram) επιπέδου σχεδίασης}{6}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Μηχανές Καταστάσεων (state machines)}{6}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Παραρτήματα}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Διάρθρωση Οµάδας και Κατανοµή Αρµοδιοτήτων}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Ερωτηµατολόγιο Εντοπισµού Απαιτήσεων Λειτουργίας Συστήµατος}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Βιβλιογραφία και Πηγές Πληροφοριών}{7}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Πρακτικά Συναντήσεων}{7}{subsection.6.4}%

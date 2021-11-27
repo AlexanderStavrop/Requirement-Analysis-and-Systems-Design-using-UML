@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.9)  23 NOV 2021 23:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.9)  27 NOV 2021 16:40
 entering extended mode
 **./main_file.tex
 (main_file.tex
@@ -1090,7 +1090,7 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14111 strings out of 478927
- 226351 string characters out of 2853009
+ 227191 string characters out of 2853009
  525541 words of memory out of 3000000
  31673 multiletter control sequences out of 15000+600000
  413694 words of font info for 57 fonts, out of 8000000 for 9000
