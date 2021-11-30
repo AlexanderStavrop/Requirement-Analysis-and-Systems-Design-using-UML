@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.9)  30 NOV 2021 01:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.16)  30 NOV 2021 15:00
 entering extended mode
 **./main_file.tex
 (main_file.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27>
+L3 programming layer <2021-07-12>
 (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
@@ -1048,12 +1048,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
  []
 
 
-Overfull \hbox (4.41478pt too wide) in paragraph at lines 14--16
-\LGR/cmr/m/n/12 Pio sug-kekrimèna\OT1/cmr/m/n/12 , \LGR/cmr/m/n/12 mèsw tou ulo
-poioÔ-me-nou sust -ma-toc o pelˆthc ja èqei thn dunatìthta
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
@@ -1137,13 +1131,13 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
 (rerunfilecheck)             Checksum: 4F1F40FDD777F9015CFD40EAEFBA59E5;8312.
  ) 
 Here is how much of TeX's memory you used:
- 14116 strings out of 478927
- 227237 string characters out of 2853009
- 525544 words of memory out of 3000000
- 31676 multiletter control sequences out of 15000+600000
+ 14115 strings out of 478868
+ 227316 string characters out of 2849283
+ 526617 words of memory out of 3000000
+ 31734 multiletter control sequences out of 15000+600000
  413694 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,1775b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,66p,1850b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/publi
@@ -1152,7 +1146,7 @@ c/cbgreek/grmn1200.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1
 /type1/public/cbgreek/grxn1440.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/cbgreek/grxn1728.pfb><C:/Users/Alex/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/cbgreek/grxn2074.pfb>
-Output written on main_file.pdf (10 pages, 253000 bytes).
+Output written on main_file.pdf (10 pages, 253438 bytes).
 PDF statistics:
  228 PDF objects out of 1000 (max. 8388607)
  37 named destinations out of 1000 (max. 500000)
