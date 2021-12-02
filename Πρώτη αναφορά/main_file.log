@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.9)  27 NOV 2021 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.16)  2 DEC 2021 02:23
 entering extended mode
 **./main_file.tex
 (main_file.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27>
+L3 programming layer <2021-07-12>
 (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
@@ -1024,12 +1024,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \newpage
-              [1
+l.35 \noindent
+               [1
 
 
 
@@ -1039,18 +1044,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--37
  []
 
 
-Overfull \hbox (11.88994pt too wide) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Overfull \hbox (5.82674pt too wide) in paragraph at lines 42--43
+\LGR/cmr/m/n/12 teinÏmenec epiqeir†-seic Ïpwc es-ti-atÏria\OT1/cmr/m/n/12 , \LG
+R/cmr/m/n/12 mag-a-zià me mousik†\OT1/cmr/m/n/12 , \LGR/cmr/m/n/12 epiqeir†-sei
+c enoik–ashc
+ []
+
+
+Overfull \hbox (11.88994pt too wide) in paragraph at lines 50--52
 \LGR/cmr/m/n/12 Oi sum-metàsqon-tec jew-ro‘n pwc h ulopo–hsh au-to‘ tou sust†-m
 a-toc ja Ëqei wc apotËlesma
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
@@ -1059,13 +1076,13 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
 (rerunfilecheck)             Checksum: C4F8399C31EBE0550EC88DFB3B815752;267.
  ) 
 Here is how much of TeX's memory you used:
- 13941 strings out of 478927
- 221609 string characters out of 2853009
- 519459 words of memory out of 3000000
- 31590 multiletter control sequences out of 15000+600000
+ 13941 strings out of 478868
+ 221651 string characters out of 2849283
+ 521532 words of memory out of 3000000
+ 31649 multiletter control sequences out of 15000+600000
  409371 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,1033b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,66p,1334b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1075,7 +1092,7 @@ type1/public/cbgreek/grmn1440.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/cbgreek/grxn1200.pfb><C:/Users/Alex/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/cbgreek/grxn1728.pfb><C:/Users/Alex/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/cbgreek/grxn2074.pfb>
-Output written on main_file.pdf (3 pages, 198745 bytes).
+Output written on main_file.pdf (3 pages, 199990 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
