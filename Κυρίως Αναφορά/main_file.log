@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.6)  13 DEC 2021 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.6)  13 DEC 2021 22:46
 entering extended mode
 **./main_file.tex
 (main_file.tex
@@ -6,8 +6,8 @@ LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-22>
 (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count183
 \c@chapter=\count184
@@ -972,23 +972,23 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(86.72377pt, 440.84746pt, 86.72377pt)
-* v-part:(T,H,B)=(86.72377pt, 621.52245pt, 86.72377pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=440.84746pt
-* \textheight=621.52245pt
-* \oddsidemargin=14.45378pt
-* \evensidemargin=14.45378pt
-* \topmargin=-22.54622pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1096,7 +1096,7 @@ File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 File: Images/university.png Graphic file (type png)
 <use Images/university.png>
 Package pdftex.def Info: Images/university.png  used on input line 27.
-(pdftex.def)             Requested size: 132.25557pt x 212.12558pt.
+(pdftex.def)             Requested size: 140.92793pt x 226.03557pt.
  [1
 
 
@@ -1138,32 +1138,29 @@ Chapter 1.
  (Chapters/chapter2.tex
 Chapter 2.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 5.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
 
  []
 
 
-Overfull \hbox (45.20105pt too wide) in paragraph at lines 20--20
-[]\LGR/cmr/bx/n/17.28 Pleonekt†mata\OT1/cmr/bx/n/17.28 , \LGR/cmr/bx/n/17.28 Ad
-unam–ec\OT1/cmr/bx/n/17.28 , \LGR/cmr/bx/n/17.28 Eu-kair–ec kai ApeilËc 
+Overfull \hbox (7.23067pt too wide) in paragraph at lines 28--31
+\LGR/cmr/m/n/10.95 twn dw-mat–wn en∏ paràllhla h qr†sh twn \OT1/cmr/m/n/10.95 t
+ablets \LGR/cmr/m/n/10.95 kàje dw-mat–ou pe-ri-or–ze-tai stic apol‘twc apara–th
+tec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--43
+Underfull \hbox (badness 10000) in paragraph at lines 32--51
 
  []
 
@@ -1173,62 +1170,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--43
 
 
 ]
+Overfull \hbox (8.60284pt too wide) in paragraph at lines 52--65
+\LGR/cmr/m/n/10.95 'Oson aforà sthn apograf† twn dw-mat–wn\OT1/cmr/m/n/10.95 , 
+\LGR/cmr/m/n/10.95 Ëpeita apÏ thn apo-q∏rhsh tou pelàth to trËqon prwtÏkollo
+ []
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 59.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 72--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--99
 
  []
 
 [4]
-Overfull \hbox (2.38531pt too wide) in paragraph at lines 76--81
-\LGR/cmr/m/n/12 'Oson aforà tic lei-tourg–ec pou ja aforo‘n gia touc upal-l†lou
-c\OT1/cmr/m/n/12 , \LGR/cmr/m/n/12 ja d–ne-tai h dunatÏthta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--81
+Underfull \hbox (badness 10000) in paragraph at lines 100--106
 
  []
 
 
-Overfull \hbox (9.64067pt too wide) in paragraph at lines 82--91
-\LGR/cmr/m/n/12 me ton opo–o epikoin-wno‘n na br–s-ke-tai ek-tÏc wrar–ou\OT1/cm
-r/m/n/12 . \LGR/cmr/m/n/12 AutÏ ar-qikà jew-re–-tai antiepaggel-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--91
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--113
-
- []
-
-[5]) [6]
+) [5]
 \openout2 = `Chapters/chapter3.aux'.
 
  (Chapters/chapter3.tex
 Chapter 3.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 3.
-
-) [7
+) [6
 
 
 
@@ -1236,7 +1218,10 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 ]
 \openout2 = `Chapters/chapter4.aux'.
 
- (Chapters/chapter4.tex) [8
+ (Chapters/chapter4.tex
+Chapter 4.
+) [7
+
 
 
 
@@ -1244,12 +1229,21 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 \openout2 = `Chapters/chapter5.aux'.
 
  (Chapters/chapter5.tex
-Overfull \hbox (13.74379pt too wide) in paragraph at lines 3--3
-[]\LGR/cmr/bx/n/14.4 Diagràmmata Perip-t∏sewn Qr†shc \OT1/cmr/bx/n/14.4 (use ca
-se di-a-grams) 
+Chapter 5.
+
+Overfull \hbox (35.58392pt too wide) in paragraph at lines 5--5
+[]\LGR/cmr/bx/n/14.4 Anàlush kai EpiskÏphsh Sqed–ashc me Di-a-gràm-mata Klàsewn
+
  []
 
-) [9
+
+Overfull \hbox (49.78511pt too wide) in paragraph at lines 6--6
+[]\LGR/cmr/bx/n/14.4 Diagràmmata Akolou-j–ac \OT1/cmr/bx/n/14.4 (se-quence di-a
+-gram) \LGR/cmr/bx/n/14.4 epipË-dou sqed–ashc 
+ []
+
+) [8
+
 
 
 
@@ -1257,105 +1251,47 @@ se di-a-grams)
 \openout2 = `Chapters/chapter6.aux'.
 
  (Chapters/chapter6.tex
-Overfull \hbox (14.26541pt too wide) in paragraph at lines 4--4
-[]\LGR/cmr/bx/n/14.4 ErwthmatolÏgio En-topis-mo‘ Apait†sewn Lei-tourg–ac
+Chapter 6.
+
+Overfull \hbox (31.67348pt too wide) in paragraph at lines 4--4
+[]\LGR/cmr/bx/n/14.4 ErwthmatolÏgio En-topis-mo‘ Apait†sewn Lei-tourg–ac Sust†-
+
  []
 
-) [10
+) [9
+
 
 
 
 ] (main_file.aux (Titlepage/title.aux) (Chapters/chapter1.aux)
 (Chapters/chapter2.aux) (Chapters/chapter3.aux) (Chapters/chapter4.aux)
 (Chapters/chapter5.aux) (Chapters/chapter6.aux))
-
-Package rerunfilecheck Warning: File `main_file.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main_file.out':
-(rerunfilecheck)             Before: 342DEBD7B7AF55826C7246621E52321F;8518
-(rerunfilecheck)             After:  E98F161E849E5DCEF4CA0A3190B0B611;8510.
+Package rerunfilecheck Info: File `main_file.out' has not changed.
+(rerunfilecheck)             Checksum: C066E673D5E592E0C2F825F90E2619A5;8361.
  ) 
 Here is how much of TeX's memory you used:
- 15785 strings out of 478681
- 270038 string characters out of 2847009
- 556273 words of memory out of 3000000
- 33536 multiletter control sequences out of 15000+600000
- 415338 words of font info for 61 fonts, out of 8000000 for 9000
+ 15762 strings out of 478681
+ 265510 string characters out of 2847009
+ 555224 words of memory out of 3000000
+ 33534 multiletter control sequences out of 15000+600000
+ 414346 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,63p,1150b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.2.9.4} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.9.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.9.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.9.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.8.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.8.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.8.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.8.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.8.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.6.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.6.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.6} has been referenced but does not exist
-, replaced by a fixed one
-
- <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm120
-0.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy6.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/cbgreek/grmn1200.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/cbgreek/grxn1200.pfb><C:/Users/Alex/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/cbgreek/grxn1440.pfb><C:/Users/Alex/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/cbgreek/grxn1728.pfb><C:/Users/Alex/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn2074.pfb><C:/Users/Alex/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn2488.pfb>
-Output written on main_file.pdf (11 pages, 289117 bytes).
+ 60i,5n,63p,640b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+095.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Alex/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/cbgreek/grmn1095.pfb><C:/Users/Alex/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1095.pfb><C:/Users/Alex/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1440.pfb><C:/Users/Alex/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1728.pfb><C:/Users/A
+lex/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn2488.pfb>
+Output written on main_file.pdf (10 pages, 292941 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
  214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
