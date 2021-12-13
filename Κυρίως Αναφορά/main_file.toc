@@ -1,27 +1,27 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
-\contentsline {section}{\numberline {2}Περιγραφή Πλαισίου Έργου}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Πληροφορίες Πελάτη}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Περιγραφή Τρέχοντος Συστήµατος Πελάτη}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Αρχιτεκτονική και Πλατφόρµα Τρέχοντος Συστήµατος}{3}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Πλεονεκτήματα, Αδυναμίες, Ευκαιρίες και Απειλές}{3}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Εμβέλεια Έργου και Περιορισμοί Κύκλου Έργου}{4}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Ανάλυση Απαιτήσεων Συστήματος}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Λειτουργικές Απαιτήσεις}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Μή Λειτουργικές Απαιτήσεις}{6}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Επιλογές και Προτάσεις}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Κριτήρια Αξιολόγησης Επιλογών}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Εµπορικά Πακέτα Λογισµικού}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Επιλογή Ανάπτυξης Νέου Συστήµατος}{7}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Τελική Πρόταση}{7}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Ανάλυση και Αρχική Σχεδίαση σε UML}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Διαγράµµατα Περιπτώσεων Χρήσης (use case diagrams)}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Διαγράµµατα Δραστηριοτήτων (activity diagrams)}{8}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράµµατα Κλάσεων (Class diagrams)}{8}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Διαγράµµατα Ακολουθίας (sequence diagram) επιπέδου σχεδίασης}{8}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Μηχανές Καταστάσεων (state machines)}{8}{subsection.5.5}%
-\contentsline {section}{\numberline {6}Παραρτήματα}{9}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Διάρθρωση Οµάδας και Κατανοµή Αρµοδιοτήτων}{9}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Ερωτηµατολόγιο Εντοπισµού Απαιτήσεων Λειτουργίας Συστήµατος}{9}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Βιβλιογραφία και Πηγές Πληροφοριών}{9}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Πρακτικά Συναντήσεων}{9}{subsection.6.4}%
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Περιγραφή Πλαισίου Έργου}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Πληροφορίες Πελάτη - Mission Statement}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Περιγραφή Τρέχοντος Συστήματος Πελάτη}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Αρχιτεκτονική και Πλατφόρμα Τρέχοντος \\ Συστήματος}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Πλεονεκτήματα, Αδυναμίες, Ευκαιρίες και Απειλές}{3}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Εμβέλεια Έργου και Περιορισμοί Κύκλου \\Έργου}{4}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Ανάλυση Απαιτήσεων Συστήματος}{7}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Λειτουργικές Απαιτήσεις}{7}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Μή Λειτουργικές Απαιτήσεις}{7}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Επιλογές και Προτάσεις}{8}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Κριτήρια Αξιολόγησης Επιλογών}{8}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Εµπορικά Πακέτα Λογισµικού}{8}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Επιλογή Ανάπτυξης Νέου Συστήµατος}{8}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Τελική Πρόταση}{8}{subsection.2.7.4}%
+\contentsline {section}{\numberline {2.8}Ανάλυση και Αρχική Σχεδίαση σε UML}{9}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Διαγράµµατα Περιπτώσεων Χρήσης (use case diagrams)}{9}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Διαγράµµατα Δραστηριοτήτων (activity diagrams)}{9}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράµµατα Κλάσεων (Class diagrams)}{9}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}Διαγράµµατα Ακολουθίας (sequence diagram) επιπέδου σχεδίασης}{9}{subsection.2.8.4}%
+\contentsline {subsection}{\numberline {2.8.5}Μηχανές Καταστάσεων (state machines)}{9}{subsection.2.8.5}%
+\contentsline {section}{\numberline {2.9}Παραρτήματα}{10}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Διάρθρωση Οµάδας και Κατανοµή Αρµοδιοτήτων}{10}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Ερωτηµατολόγιο Εντοπισµού Απαιτήσεων Λειτουργίας Συστήµατος}{10}{subsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.9.3}Βιβλιογραφία και Πηγές Πληροφοριών}{10}{subsection.2.9.3}%
+\contentsline {subsection}{\numberline {2.9.4}Πρακτικά Συναντήσεων}{10}{subsection.2.9.4}%
