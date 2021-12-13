@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.6)  13 DEC 2021 18:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.6)  13 DEC 2021 22:14
 entering extended mode
 **./main_file.tex
 (main_file.tex
@@ -1158,12 +1158,12 @@ unam–ec\OT1/cmr/bx/n/17.28 , \LGR/cmr/bx/n/17.28 Eu-kair–ec kai ApeilËc
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
+Underfull \hbox (badness 10000) in paragraph at lines 25--43
 
  []
 
@@ -1175,47 +1175,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 30.
+(hyperref)                removing `\\' on input line 59.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Underfull \hbox (badness 10000) in paragraph at lines 64--75
 
  []
 
 [4]
-Overfull \hbox (2.38531pt too wide) in paragraph at lines 36--38
+Overfull \hbox (2.38531pt too wide) in paragraph at lines 76--81
 \LGR/cmr/m/n/12 'Oson aforà tic lei-tourg–ec pou ja aforo‘n gia touc upal-l†lou
 c\OT1/cmr/m/n/12 , \LGR/cmr/m/n/12 ja d–ne-tai h dunatÏthta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
 
  []
 
 
-Overfull \hbox (9.64067pt too wide) in paragraph at lines 39--41
+Overfull \hbox (9.64067pt too wide) in paragraph at lines 82--91
 \LGR/cmr/m/n/12 me ton opo–o epikoin-wno‘n na br–s-ke-tai ek-tÏc wrar–ou\OT1/cm
 r/m/n/12 . \LGR/cmr/m/n/12 AutÏ ar-qikà jew-re–-tai antiepaggel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
+Underfull \hbox (badness 10000) in paragraph at lines 82--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--44
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--48
+Underfull \hbox (badness 10000) in paragraph at lines 99--113
 
  []
 
@@ -1268,11 +1268,11 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
 Here is how much of TeX's memory you used:
  15766 strings out of 478681
  265700 string characters out of 2847009
- 556274 words of memory out of 3000000
+ 556273 words of memory out of 3000000
  33536 multiletter control sequences out of 15000+600000
  415338 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,63p,3179b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,63p,1150b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1284,7 +1284,7 @@ MiKTeX/fonts/type1/public/cbgreek/grxn1440.pfb><C:/Users/Alex/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/cbgreek/grxn1728.pfb><C:/Users/Alex/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn2074.pfb><C:/Users/Alex/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn2488.pfb>
-Output written on main_file.pdf (11 pages, 286060 bytes).
+Output written on main_file.pdf (11 pages, 286066 bytes).
 PDF statistics:
  249 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
