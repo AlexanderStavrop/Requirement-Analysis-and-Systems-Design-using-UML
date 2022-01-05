@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  5 JAN 2022 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  6 JAN 2022 01:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1218,123 +1218,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--64
 
  []
 
-<Images/High_level_use_case.png, id=190, 479.7925pt x 402.50375pt>
-File: Images/High_level_use_case.png Graphic file (type png)
-<use Images/High_level_use_case.png>
-Package pdftex.def Info: Images/High_level_use_case.png  used on input line 109
-.
-(pdftex.def)             Requested size: 328.82707pt x 275.86081pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
 [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
-
- []
-
-<Images/Low_level_use_case-FAQ.png, id=196, 698.61pt x 352.31625pt>
-File: Images/Low_level_use_case-FAQ.png Graphic file (type png)
-<use Images/Low_level_use_case-FAQ.png>
-Package pdftex.def Info: Images/Low_level_use_case-FAQ.png  used on input line 
-136.
-(pdftex.def)             Requested size: 375.80544pt x 189.52219pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--139
-
- []
-
-[9 <./Images/High_level_use_case.png>]
-<Images/sequence-FAQ.png, id=204, 1029.8475pt x 1411.2725pt>
-File: Images/sequence-FAQ.png Graphic file (type png)
-<use Images/sequence-FAQ.png>
-Package pdftex.def Info: Images/sequence-FAQ.png  used on input line 143.
-(pdftex.def)             Requested size: 281.85587pt x 386.23843pt.
- [10 <./Images/Low_level_use_case-FAQ.png> <./Images/sequence-FAQ.png>]
-<Images/Low_level_use_case-Room service.png, id=213, 772.8875pt x 593.21625pt>
-File: Images/Low_level_use_case-Room service.png Graphic file (type png)
-<use Images/Low_level_use_case-Room service.png>
-Package pdftex.def Info: Images/Low_level_use_case-Room service.png  used on in
-put line 166.
-(pdftex.def)             Requested size: 469.75502pt x 360.54887pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--169
-
- []
-
-<Images/Activity-Room service.png, id=214, 872.25874pt x 793.96625pt>
-File: Images/Activity-Room service.png Graphic file (type png)
-<use Images/Activity-Room service.png>
-Package pdftex.def Info: Images/Activity-Room service.png  used on input line 1
-72.
-(pdftex.def)             Requested size: 469.75502pt x 427.58447pt.
-[11
-
- <./Images/Low_level_use_case-Room service.png>] [12 <./Images/Activity-Room se
-rvice.png>]
-<Images/Low_level_use_case-Chat.png, id=228, 899.36pt x 362.35374pt>
-File: Images/Low_level_use_case-Chat.png Graphic file (type png)
-<use Images/Low_level_use_case-Chat.png>
-Package pdftex.def Info: Images/Low_level_use_case-Chat.png  used on input line
- 195.
-(pdftex.def)             Requested size: 469.75502pt x 189.26544pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--198
+Underfull \hbox (badness 10000) in paragraph at lines 108--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--198
+Underfull \hbox (badness 10000) in paragraph at lines 108--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--198
+Underfull \hbox (badness 10000) in paragraph at lines 121--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--198
+Underfull \hbox (badness 10000) in paragraph at lines 121--135
 
  []
 
-<Images/Activity-Chat.png, id=229, 854.19125pt x 906.38625pt>
-File: Images/Activity-Chat.png Graphic file (type png)
-<use Images/Activity-Chat.png>
-Package pdftex.def Info: Images/Activity-Chat.png  used on input line 201.
-(pdftex.def)             Requested size: 469.75502pt x 498.45865pt.
-[13
-
- <./Images/Low_level_use_case-Chat.png>] [14 <./Images/Activity-Chat.png>]
-<Images/Low_level_use_case-Room cleaning.png, id=242, 546.04pt x 442.65375pt>
-File: Images/Low_level_use_case-Room cleaning.png Graphic file (type png)
-<use Images/Low_level_use_case-Room cleaning.png>
-Package pdftex.def Info: Images/Low_level_use_case-Room cleaning.png  used on i
-nput line 226.
-(pdftex.def)             Requested size: 469.75502pt x 380.81662pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--229
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 152--167
 
  []
 
+) [10
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--229
-
- []
-
-<Images/Sequence-Room cleaning.png, id=243, 721.69624pt x 591.20876pt>
-File: Images/Sequence-Room cleaning.png Graphic file (type png)
-<use Images/Sequence-Room cleaning.png>
-Package pdftex.def Info: Images/Sequence-Room cleaning.png  used on input line 
-233.
-(pdftex.def)             Requested size: 469.75502pt x 384.8224pt.
-[15
-
- <./Images/Low_level_use_case-Room cleaning.png>]) [16 <./Images/sequence-Room 
-cleaning.png>]
+]
 \openout2 = `Chapters/chapter4.aux'.
 
  (./Chapters/chapter4.tex
 Chapter 4.
-) [17
+) [11
 
 
 
@@ -1344,22 +1267,57 @@ Chapter 4.
 
  (./Chapters/chapter5.tex
 Chapter 5.
+<Images/High_level_use_case.png, id=209, 479.7925pt x 402.50375pt>
+File: Images/High_level_use_case.png Graphic file (type png)
+<use Images/High_level_use_case.png>
+Package pdftex.def Info: Images/High_level_use_case.png  used on input line 14.
 
-Overfull \hbox (35.58392pt too wide) in paragraph at lines 11--11
+(pdftex.def)             Requested size: 375.80544pt x 315.27213pt.
+[12
+
+
+
+
+ <./Images/High_level_use_case.png>] [13
+
+]
+<Images/Low_level_use_case-Room service.png, id=231, 612.2875pt x 590.205pt>
+File: Images/Low_level_use_case-Room service.png Graphic file (type png)
+<use Images/Low_level_use_case-Room service.png>
+Package pdftex.def Info: Images/Low_level_use_case-Room service.png  used on in
+put line 47.
+(pdftex.def)             Requested size: 469.75502pt x 452.81119pt.
+<Images/Activity-Chat.png, id=232, 864.22874pt x 1157.32375pt>
+File: Images/Activity-Chat.png Graphic file (type png)
+<use Images/Activity-Chat.png>
+Package pdftex.def Info: Images/Activity-Chat.png  used on input line 54.
+(pdftex.def)             Requested size: 469.75502pt x 629.06013pt.
+ [14
+
+ <./Images/Low_level_use_case-Room service.png>]
+Overfull \vbox (2.23012pt too high) has occurred while \output is active []
+
+
+[15 <./Images/Activity-Chat.png>]
+<Images/Activity-Room service.png, id=245, 872.25874pt x 855.195pt>
+File: Images/Activity-Room service.png Graphic file (type png)
+<use Images/Activity-Room service.png>
+Package pdftex.def Info: Images/Activity-Room service.png  used on input line 6
+1.
+(pdftex.def)             Requested size: 469.75502pt x 460.55876pt.
+ [16 <./Images/Activity-Room service.png>]
+Overfull \hbox (35.58392pt too wide) in paragraph at lines 67--67
 []\LGR/cmr/bx/n/14.4 Anàlush kai EpiskÏphsh Sqed–ashc me Di-a-gràm-mata Klàsewn
 
  []
 
 
-Overfull \hbox (49.78511pt too wide) in paragraph at lines 12--12
+Overfull \hbox (49.78511pt too wide) in paragraph at lines 68--68
 []\LGR/cmr/bx/n/14.4 Diagràmmata Akolou-j–ac \OT1/cmr/bx/n/14.4 (se-quence di-a
 -gram) \LGR/cmr/bx/n/14.4 epipË-dou sqed–ashc 
  []
 
-) [18
-
-
-
+) [17
 
 ]
 \openout2 = `Chapters/chapter6.aux'.
@@ -1372,7 +1330,7 @@ Overfull \hbox (31.67348pt too wide) in paragraph at lines 4--4
 
  []
 
-) [19
+) [18
 
 
 
@@ -1384,13 +1342,13 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
 (rerunfilecheck)             Checksum: C066E673D5E592E0C2F825F90E2619A5;8361.
  ) 
 Here is how much of TeX's memory you used:
- 15902 strings out of 478353
- 264123 string characters out of 5854634
- 556231 words of memory out of 5000000
- 33670 multiletter control sequences out of 15000+600000
+ 15848 strings out of 478353
+ 261952 string characters out of 5854634
+ 555859 words of memory out of 5000000
+ 33616 multiletter control sequences out of 15000+600000
  414346 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,63p,638b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,15n,63p,638b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -1401,10 +1359,10 @@ share/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/share/texmf-dist
 lic/cbfonts/grxn1440.pfb></usr/share/texmf-dist/fonts/type1/public/cbfonts/grxn
 1728.pfb></usr/share/texmf-dist/fonts/type1/public/cbfonts/grxn2488.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main_file.pdf (20 pages, 689031 bytes).
+Output written on main_file.pdf (19 pages, 496239 bytes).
 PDF statistics:
- 334 PDF objects out of 1000 (max. 8388607)
- 265 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 326 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 239 words of extra memory for PDF output out of 10000 (max. 10000000)
 
