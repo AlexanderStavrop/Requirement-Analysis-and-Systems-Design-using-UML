@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  8 JAN 2022 13:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  8 JAN 2022 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,7 +1070,7 @@ File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 
 
 (./Titlepage/title.tex
-<Images/university.png, id=108, 67.452pt x 108.1641pt>
+<Images/university.png, id=124, 67.452pt x 108.1641pt>
 File: Images/university.png Graphic file (type png)
 <use Images/university.png>
 Package pdftex.def Info: Images/university.png  used on input line 27.
@@ -1080,12 +1080,12 @@ Package pdftex.def Info: Images/university.png  used on input line 27.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/university.png>])
  (./main_file.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1145,7 +1145,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--18
 
  []
 
-<Images/organization.png, id=159, 703.62875pt x 412.54124pt>
+<Images/organization.png, id=182, 703.62875pt x 412.54124pt>
 File: Images/organization.png Graphic file (type png)
 <use Images/organization.png>
 Package pdftex.def Info: Images/organization.png  used on input line 25.
@@ -1270,14 +1270,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--167
 
  []
 
-) [10
+
+Overfull \hbox (1.99419pt too wide) in paragraph at lines 182--185
+\LGR/cmr/m/n/10.95 'Eqei zhth-jeÐ apì ton pelˆth mac oi sug-kekrimènec mh lei-t
+ourgikèc apait -seic thc para-pˆnw ulopoÐhshc
+ []
+
+[10
+
+]) [11
 
 ]
 \openout2 = `Chapters/chapter4.aux'.
 
  (./Chapters/chapter4.tex
 Chapter 4.
-) [11
+) [12
 
 
 
@@ -1287,57 +1295,57 @@ Chapter 4.
 
  (./Chapters/chapter5.tex
 Chapter 5.
-<Images/High_level_use_case.png, id=209, 479.7925pt x 402.50375pt>
+<Images/High_level_use_case.png, id=237, 479.7925pt x 402.50375pt>
 File: Images/High_level_use_case.png Graphic file (type png)
 <use Images/High_level_use_case.png>
 Package pdftex.def Info: Images/High_level_use_case.png  used on input line 14.
 
 (pdftex.def)             Requested size: 375.80544pt x 315.27213pt.
-[12
+[13
 
 
 
 
- <./Images/High_level_use_case.png>] [13
+ <./Images/High_level_use_case.png>] [14
 
 ]
-<Images/Low_level_use_case-Room service.png, id=231, 612.2875pt x 590.205pt>
+<Images/Low_level_use_case-Room service.png, id=258, 612.2875pt x 590.205pt>
 File: Images/Low_level_use_case-Room service.png Graphic file (type png)
 <use Images/Low_level_use_case-Room service.png>
 Package pdftex.def Info: Images/Low_level_use_case-Room service.png  used on in
 put line 47.
 (pdftex.def)             Requested size: 469.75502pt x 452.81119pt.
-<Images/Activity-Chat.png, id=232, 864.22874pt x 1157.32375pt>
+<Images/Activity-Chat.png, id=259, 864.22874pt x 1157.32375pt>
 File: Images/Activity-Chat.png Graphic file (type png)
 <use Images/Activity-Chat.png>
-Package pdftex.def Info: Images/Activity-Chat.png  used on input line 54.
+Package pdftex.def Info: Images/Activity-Chat.png  used on input line 55.
 (pdftex.def)             Requested size: 469.75502pt x 629.06013pt.
- [14
+ [15
 
- <./Images/Low_level_use_case-Room service.png>]
-Overfull \vbox (2.23012pt too high) has occurred while \output is active []
+ <./Images/Low_level_use_case-Room service.png>] [16]
+Overfull \vbox (38.85332pt too high) has occurred while \output is active []
 
 
-[15 <./Images/Activity-Chat.png>]
-<Images/Activity-Room service.png, id=245, 872.25874pt x 855.195pt>
+[17 <./Images/Activity-Chat.png>]
+<Images/Activity-Room service.png, id=276, 872.25874pt x 855.195pt>
 File: Images/Activity-Room service.png Graphic file (type png)
 <use Images/Activity-Room service.png>
 Package pdftex.def Info: Images/Activity-Room service.png  used on input line 6
-1.
+2.
 (pdftex.def)             Requested size: 469.75502pt x 460.55876pt.
- [16 <./Images/Activity-Room service.png>]
-Overfull \hbox (35.58392pt too wide) in paragraph at lines 67--67
+ [18 <./Images/Activity-Room service.png>]
+Overfull \hbox (35.58392pt too wide) in paragraph at lines 68--68
 []\LGR/cmr/bx/n/14.4 Anˆlush kai Episkìphsh SqedÐashc me Di-a-grˆm-mata Klˆsewn
 
  []
 
 
-Overfull \hbox (49.78511pt too wide) in paragraph at lines 68--68
+Overfull \hbox (49.78511pt too wide) in paragraph at lines 69--69
 []\LGR/cmr/bx/n/14.4 Diagrˆmmata Akolou-jÐac \OT1/cmr/bx/n/14.4 (se-quence di-a
 -gram) \LGR/cmr/bx/n/14.4 epipè-dou sqedÐashc 
  []
 
-) [17
+) [19
 
 ]
 \openout2 = `Chapters/chapter6.aux'.
@@ -1411,7 +1419,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--46
 
  []
 
-) [18
+) [20
 
 
 
@@ -1420,30 +1428,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--46
 (./Chapters/chapter2.aux) (./Chapters/chapter3.aux) (./Chapters/chapter4.aux)
 (./Chapters/chapter5.aux) (./Chapters/chapter6.aux))
 Package rerunfilecheck Info: File `main_file.out' has not changed.
-(rerunfilecheck)             Checksum: C066E673D5E592E0C2F825F90E2619A5;8361.
+(rerunfilecheck)             Checksum: 0CDFCA684082F47B7B98711CF7EC6BE7;8885.
  ) 
 Here is how much of TeX's memory you used:
- 15850 strings out of 478353
- 261967 string characters out of 5854634
- 555891 words of memory out of 5000000
- 33618 multiletter control sequences out of 15000+600000
- 414346 words of font info for 59 fonts, out of 8000000 for 9000
+ 15863 strings out of 478353
+ 262145 string characters out of 5854634
+ 557897 words of memory out of 5000000
+ 33624 multiletter control sequences out of 15000+600000
+ 415353 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,15n,63p,638b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
-share/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/share/texmf-dist
-/fonts/type1/public/cbfonts/grxn1095.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/cbfonts/grxn1440.pfb></usr/share/texmf-dist/fonts/type1/public/cbfonts/grxn
-1728.pfb></usr/share/texmf-dist/fonts/type1/public/cbfonts/grxn2488.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main_file.pdf (19 pages, 500990 bytes).
+c/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1
+/public/cbfonts/grmn1095.pfb></usr/share/texmf-dist/fonts/type1/public/cbfonts/
+grxn1095.pfb></usr/share/texmf-dist/fonts/type1/public/cbfonts/grxn1200.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cbfonts/grxn1440.pfb></usr/share/texmf-d
+ist/fonts/type1/public/cbfonts/grxn1728.pfb></usr/share/texmf-dist/fonts/type1/
+public/cbfonts/grxn2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
+sfrm1095.pfb>
+Output written on main_file.pdf (21 pages, 538581 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 66 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 371 PDF objects out of 1000 (max. 8388607)
+ 304 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
