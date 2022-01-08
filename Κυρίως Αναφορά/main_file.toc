@@ -1,34 +1,33 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Εισαγωγή}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Εxecutive Summary}{2}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Περιγραφή Πλαισίου Έργου}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Πληροφορίες Πελάτη - Mission Statement}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Περιγραφή Τρέχοντος Συστήματος Πελάτη}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Αρχιτεκτονική και Πλατφόρμα Τρέχοντος Συστήματος}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Πλεονεκτήματα, Αδυναμίες, Ευκαιρίες και Απειλές}{4}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Εμβέλεια Έργου και Περιορισμοί Κύκλου Έργου}{5}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Ανάλυση Απαιτήσεων Συστήματος}{7}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Λειτουργικές Απαιτήσεις}{7}{section.3.1}%
-\contentsline {subsubsection}{Έξοδοι του Συστήματος}{7}{section*.3}%
-\contentsline {subsubsection}{Είσοδοι του Συστήματος}{8}{section*.5}%
-\contentsline {subsubsection}{Προτεραιότητες και Διαδικασίες του Συστήματος}{9}{section*.6}%
-\contentsline {section}{\numberline {3.2}Μή Λειτουργικές Απαιτήσεις}{10}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Χρονικές}{10}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Χωρικές}{11}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Υπόλοιπες}{11}{subsection.3.2.3}%
-\contentsline {chapter}{\numberline {4}Επιλογές και Προτάσεις}{12}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Κριτήρια Αξιολόγησης Επιλογών}{12}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Εμπορικά Πακέτα Λογισμικού}{12}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Επιλογή Ανάπτυξης Νέου Συστήματος}{12}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Τελική Πρόταση}{12}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Ανάλυση και Αρχική Σχεδίαση σε UML}{13}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Διαγράμματα Περιπτώσεων Χρήσης (use case diagrams)}{13}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Διαγράμματα Δραστηριοτήτων (Activity diagrams)}{16}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράμματα Κλάσεων (Class diagrams)}{18}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Διαγράμματα Ακολουθίας (sequence diagram) επιπέδου σχεδίασης}{18}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Μηχανές Καταστάσεων (state machines)}{18}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Παραρτήματα}{19}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Διάρθρωση Ομάδας και Κατανομή Αρμοδιοτήτων}{19}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Ερωτηματολόγιο Εντοπισμού Απαιτήσεων Λειτουργίας Συστήματος}{19}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Βιβλιογραφία και Πηγές Πληροφοριών}{20}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Πρακτικά Συναντήσεων}{20}{section.6.4}%
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Περιγραφή Πλαισίου Έργου}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Πληροφορίες Πελάτη - Mission Statement}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Περιγραφή Τρέχοντος Συστήματος Πελάτη}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Αρχιτεκτονική και Πλατφόρμα Τρέχοντος Συστήματος}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Πλεονεκτήματα, Αδυναμίες, Ευκαιρίες και Απειλές}{5}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Εμβέλεια Έργου και Περιορισμοί Κύκλου Έργου}{6}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Ανάλυση Απαιτήσεων Συστήματος}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Λειτουργικές Απαιτήσεις}{8}{section.3.1}%
+\contentsline {subsubsection}{Έξοδοι του Συστήματος}{8}{section*.3}%
+\contentsline {subsubsection}{Είσοδοι του Συστήματος}{9}{section*.5}%
+\contentsline {subsubsection}{Προτεραιότητες και Διαδικασίες του Συστήματος}{10}{section*.6}%
+\contentsline {section}{\numberline {3.2}Μή Λειτουργικές Απαιτήσεις}{11}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Χρονικές}{11}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Χωρικές}{12}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Υπόλοιπες}{12}{subsection.3.2.3}%
+\contentsline {chapter}{\numberline {4}Επιλογές και Προτάσεις}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Κριτήρια Αξιολόγησης Επιλογών}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Εμπορικά Πακέτα Λογισμικού}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Επιλογή Ανάπτυξης Νέου Συστήματος}{13}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Τελική Πρόταση}{13}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Ανάλυση και Αρχική Σχεδίαση σε UML}{14}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Διαγράμματα Περιπτώσεων Χρήσης (use case diagrams)}{14}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Διαγράμματα Δραστηριοτήτων (Activity diagrams)}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράμματα Κλάσεων (Class diagrams)}{19}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Διαγράμματα Ακολουθίας (sequence diagram) επιπέδου σχεδίασης}{19}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Μηχανές Καταστάσεων (state machines)}{19}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Παραρτήματα}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Διάρθρωση Ομάδας και Κατανομή Αρμοδιοτήτων}{20}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Ερωτηματολόγιο Εντοπισμού Απαιτήσεων Λειτουργίας Συστήματος}{20}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Βιβλιογραφία και Πηγές Πληροφοριών}{22}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Πρακτικά Συναντήσεων}{22}{section.6.4}%
