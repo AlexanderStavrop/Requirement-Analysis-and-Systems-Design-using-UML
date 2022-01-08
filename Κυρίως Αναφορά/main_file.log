@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  8 JAN 2022 14:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  8 JAN 2022 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1319,21 +1319,17 @@ put line 47.
 File: Images/Activity-Chat.png Graphic file (type png)
 <use Images/Activity-Chat.png>
 Package pdftex.def Info: Images/Activity-Chat.png  used on input line 55.
-(pdftex.def)             Requested size: 469.75502pt x 629.06013pt.
+(pdftex.def)             Requested size: 422.77664pt x 566.15765pt.
  [15
 
- <./Images/Low_level_use_case-Room service.png>] [16]
-Overfull \vbox (38.85332pt too high) has occurred while \output is active []
-
-
-[17 <./Images/Activity-Chat.png>]
-<Images/Activity-Room service.png, id=276, 872.25874pt x 855.195pt>
+ <./Images/Low_level_use_case-Room service.png>]
+<Images/Activity-Room service.png, id=266, 872.25874pt x 855.195pt>
 File: Images/Activity-Room service.png Graphic file (type png)
 <use Images/Activity-Room service.png>
 Package pdftex.def Info: Images/Activity-Room service.png  used on input line 6
 2.
 (pdftex.def)             Requested size: 469.75502pt x 460.55876pt.
- [18 <./Images/Activity-Room service.png>]
+ [16 <./Images/Activity-Chat.png>] [17 <./Images/Activity-Room service.png>]
 Overfull \hbox (35.58392pt too wide) in paragraph at lines 68--68
 []\LGR/cmr/bx/n/14.4 Anˆlush kai Episkìphsh SqedÐashc me Di-a-grˆm-mata Klˆsewn
 
@@ -1345,7 +1341,7 @@ Overfull \hbox (49.78511pt too wide) in paragraph at lines 69--69
 -gram) \LGR/cmr/bx/n/14.4 epipè-dou sqedÐashc 
  []
 
-) [19
+) [18
 
 ]
 \openout2 = `Chapters/chapter6.aux'.
@@ -1359,72 +1355,180 @@ Overfull \hbox (31.67348pt too wide) in paragraph at lines 4--4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--34
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
  []
 
 
-Overfull \hbox (0.76477pt too wide) in paragraph at lines 35--38
-\OT1/cmr/bx/n/10.95 9) \LGR/cmr/bx/n/10.95 PeÐte mac kˆpoiec basikèc lei-tourgÐ
-ec pou ek-teloÔn-tai me to up-ˆrqon sÔsthma\OT1/cmr/bx/n/10.95 . 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+Overfull \hbox (9.09073pt too wide) in paragraph at lines 29--34
+\LGR/cmr/m/n/10.95 MegalÔterh kin-htikìthta parathreÐ-tai katˆ touc kalokairi-n
+oÔc m nec ìpou kai o ar-i-jmìc twn tourist¸n\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 
  []
 
-) [20
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--53
+
+ []
+
+[19
 
 
 
 
-] (./main_file.aux (./Titlepage/title.aux) (./Chapters/chapter1.aux)
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Overfull \hbox (5.72156pt too wide) in paragraph at lines 54--60
+\LGR/cmr/m/n/10.95 Ston pelˆth\OT1/cmr/m/n/10.95 , \LGR/cmr/m/n/10.95 sthn paro
+Ôsa fˆsh\OT1/cmr/m/n/10.95 , \LGR/cmr/m/n/10.95 ston pelˆth parèqon-tai oi ex c
+ paro-qèc \OT1/cmr/m/n/10.95 ??????? ?????????????????? 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+
+ []
+
+
+Overfull \hbox (7.06097pt too wide) in paragraph at lines 68--74
+\OT1/cmr/bx/n/10.95 10) \LGR/cmr/bx/n/10.95 PeÐte mac kˆpoiec basikèc lei-tourg
+Ðec pou ek-teloÔn-tai me to up-ˆrqon sÔsthma\OT1/cmr/bx/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+) [20] (./main_file.aux (./Titlepage/title.aux) (./Chapters/chapter1.aux)
 (./Chapters/chapter2.aux) (./Chapters/chapter3.aux) (./Chapters/chapter4.aux)
 (./Chapters/chapter5.aux) (./Chapters/chapter6.aux))
 Package rerunfilecheck Info: File `main_file.out' has not changed.
@@ -1451,7 +1555,7 @@ sr/share/texmf-dist/fonts/type1/public/cbfonts/grxn1440.pfb></usr/share/texmf-d
 ist/fonts/type1/public/cbfonts/grxn1728.pfb></usr/share/texmf-dist/fonts/type1/
 public/cbfonts/grxn2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
 sfrm1095.pfb>
-Output written on main_file.pdf (21 pages, 538581 bytes).
+Output written on main_file.pdf (21 pages, 541631 bytes).
 PDF statistics:
  371 PDF objects out of 1000 (max. 8388607)
  304 compressed objects within 4 object streams
