@@ -18,16 +18,35 @@
 \contentsline {chapter}{\numberline {4}Επιλογές και Προτάσεις}{13}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Κριτήρια Αξιολόγησης Επιλογών}{13}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Εμπορικά Πακέτα Λογισμικού}{13}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Επιλογή Ανάπτυξης Νέου Συστήματος}{13}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Τελική Πρόταση}{13}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Ανάλυση και Αρχική Σχεδίαση σε UML}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Διαγράμματα Περιπτώσεων Χρήσης (use case diagrams)}{14}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Διαγράμματα Δραστηριοτήτων (Activity diagrams)}{17}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράμματα Κλάσεων (Class diagrams)}{19}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Διαγράμματα Ακολουθίας (Sequence diagram) επιπέδου σχεδίασης}{20}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Μηχανές Καταστάσεων (state machines)}{22}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Παραρτήματα}{23}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Διάρθρωση Ομάδας και Κατανομή Αρμοδιοτήτων}{23}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Ερωτηματολόγιο Εντοπισμού Απαιτήσεων Λειτουργίας Συστήματος}{24}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Βιβλιογραφία και Πηγές Πληροφοριών}{26}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Πρακτικά Συναντήσεων}{26}{section.6.4}%
+\contentsline {subsection}{\numberline {4.2.1}Ανάλυση πακέτου Suitepad}{13}{subsection.4.2.1}%
+\contentsline {subsubsection}{Περιγραφή πακέτου}{13}{section*.4}%
+\contentsline {subsubsection}{Ανάλυση Σκοπιμότητας}{14}{section*.5}%
+\contentsline {subsubsection}{Τεχνική Σκοπιμότητα}{14}{section*.6}%
+\contentsline {subsubsection}{Ανάλυση χρονοδιαγράμματος}{14}{section*.7}%
+\contentsline {subsubsection}{Οικονομική Ανάλυση}{15}{section*.8}%
+\contentsline {subsubsection}{Ανάλυση Απόσβεσης (Payback Analysis)}{15}{section*.11}%
+\contentsline {subsubsection}{Διάγραμμα ROI (Return on Investment)}{16}{section*.14}%
+\contentsline {subsection}{\numberline {4.2.2}Ανάλυση πακέτου Mini Hotel}{17}{subsection.4.2.2}%
+\contentsline {subsubsection}{Ανάλυση Σκοπιμότητας}{17}{section*.16}%
+\contentsline {subsubsection}{Σκοπιμότητα Χρονοδιαγράμματος}{17}{section*.17}%
+\contentsline {subsubsection}{Οικονομική Ανάλυση}{17}{section*.18}%
+\contentsline {subsubsection}{Ανάλυση Απόσβεσης (Payback Analysis)}{18}{section*.21}%
+\contentsline {subsubsection}{Διάγραμμα ROI (Return on Investment)}{18}{section*.24}%
+\contentsline {section}{\numberline {4.3}Επιλογή Ανάπτυξης Νέου Συστήματος}{19}{section.4.3}%
+\contentsline {subsubsection}{Περιγραφή Πακέτου}{19}{section*.26}%
+\contentsline {subsubsection}{Ανάλυση Χρονοδιαγράμματος}{19}{section*.27}%
+\contentsline {subsubsection}{Οικονομική Ανάλυση}{19}{section*.28}%
+\contentsline {subsubsection}{Ανάλυση Απόσβεσης (Payback Analysis)}{20}{section*.31}%
+\contentsline {subsubsection}{Διάγραμμα ROI (Return on Investment)}{21}{section*.34}%
+\contentsline {section}{\numberline {4.4}Τελική Πρόταση}{21}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Ανάλυση και Αρχική Σχεδίαση σε UML}{22}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Διαγράμματα Περιπτώσεων Χρήσης (use case diagrams)}{22}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Διαγράμματα Δραστηριοτήτων (Activity diagrams)}{25}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Ανάλυση και Επισκόπηση Σχεδίασης µε Διαγράμματα Κλάσεων (Class diagrams)}{27}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Διαγράμματα Ακολουθίας (Sequence diagram) επιπέδου σχεδίασης}{28}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Μηχανές Καταστάσεων (State machines)}{30}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Παραρτήματα}{32}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Διάρθρωση Ομάδας και Κατανομή Αρμοδιοτήτων}{32}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Ερωτηματολόγιο Εντοπισμού Απαιτήσεων Λειτουργίας Συστήματος}{33}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Βιβλιογραφία και Πηγές Πληροφοριών}{35}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Πρακτικά Συναντήσεων}{36}{section.6.4}%
