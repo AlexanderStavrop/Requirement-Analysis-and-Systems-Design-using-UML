@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  10 JAN 2022 22:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.28)  10 JAN 2022 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1584,13 +1584,13 @@ Chapter 6.
 
 
 ]
-Overfull \hbox (17.17113pt too wide) in paragraph at lines 64--64
+Overfull \hbox (17.17113pt too wide) in paragraph at lines 65--65
 []\LGR/lmr/bx/n/14.4 ErwthmatolÏgio En-topis-mo‘ Apait†sewn Lei-tourg–ac Sust†-
 
  []
 
 
-Overfull \hbox (2.32115pt too wide) in paragraph at lines 66--72
+Overfull \hbox (2.32115pt too wide) in paragraph at lines 67--73
 \LGR/lmr/m/n/10.95 H epiqe–rhsh xek–nhse thn lei-tourg–a thc ton qeim∏na tou \O
 T1/lmr/m/n/10.95 2020, \LGR/lmr/m/n/10.95 apasqole– katà to mËgisto \OT1/lmr/m/
 n/10.95 5 \LGR/lmr/m/n/10.95 àtoma\OT1/lmr/m/n/10.95 ,(\LGR/lmr/m/n/10.95 poioi
@@ -1598,86 +1598,86 @@ n/10.95 5 \LGR/lmr/m/n/10.95 àtoma\OT1/lmr/m/n/10.95 ,(\LGR/lmr/m/n/10.95 poioi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--72
+Underfull \hbox (badness 10000) in paragraph at lines 67--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--81
+Underfull \hbox (badness 10000) in paragraph at lines 74--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--88
+Underfull \hbox (badness 10000) in paragraph at lines 83--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--94
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
 
  []
 
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
+Underfull \hbox (badness 10000) in paragraph at lines 102--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--113
+Underfull \hbox (badness 10000) in paragraph at lines 108--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
+Underfull \hbox (badness 10000) in paragraph at lines 115--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--128
+Underfull \hbox (badness 10000) in paragraph at lines 123--129
 
  []
 
 
-Overfull \hbox (1.51073pt too wide) in paragraph at lines 129--135
+Overfull \hbox (1.51073pt too wide) in paragraph at lines 130--136
 \OT1/lmr/bx/n/10.95 10) \LGR/lmr/bx/n/10.95 Pe–te mac kàpoiec basikËc lei-tourg
 –ec pou ek-telo‘n-tai me to up-àrqon s‘sthma\OT1/lmr/bx/n/10.95 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
+Underfull \hbox (badness 10000) in paragraph at lines 130--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--141
+Underfull \hbox (badness 10000) in paragraph at lines 137--142
 
  []
 
 [34] [35
 
 ]
-<Images/p1.png, id=484, 4015.0pt x 1806.75pt>
+<Images/p1.png, id=485, 4015.0pt x 1806.75pt>
 File: Images/p1.png Graphic file (type png)
 <use Images/p1.png>
-Package pdftex.def Info: Images/p1.png  used on input line 171.
+Package pdftex.def Info: Images/p1.png  used on input line 172.
 (pdftex.def)             Requested size: 4014.99026pt x 1806.7456pt.
-<Images/p2.jpg, id=485, 4015.0pt x 1806.75pt>
+<Images/p2.jpg, id=486, 4015.0pt x 1806.75pt>
 File: Images/p2.jpg Graphic file (type jpg)
 <use Images/p2.jpg>
-Package pdftex.def Info: Images/p2.jpg  used on input line 176.
+Package pdftex.def Info: Images/p2.jpg  used on input line 177.
 (pdftex.def)             Requested size: 4014.99026pt x 1806.7456pt.
  [36
 
  <./Images/p1.png>]
-<Images/p3.jpg, id=492, 4015.0pt x 1806.75pt>
+<Images/p3.jpg, id=493, 4015.0pt x 1806.75pt>
 File: Images/p3.jpg Graphic file (type jpg)
 <use Images/p3.jpg>
-Package pdftex.def Info: Images/p3.jpg  used on input line 181.
+Package pdftex.def Info: Images/p3.jpg  used on input line 182.
 (pdftex.def)             Requested size: 4014.99026pt x 1806.7456pt.
 ) [37 <./Images/p2.jpg>]
 Overfull \vbox (195.93404pt too high) has occurred while \output is active []
@@ -1691,13 +1691,13 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
 (rerunfilecheck)             Checksum: 699D2CF298AAFE4277306E11BEB085F2;10102.
  ) 
 Here is how much of TeX's memory you used:
- 16899 strings out of 478353
- 280514 string characters out of 5854634
+ 16900 strings out of 478353
+ 280521 string characters out of 5854634
  572783 words of memory out of 5000000
  34496 multiletter control sequences out of 15000+600000
  447088 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,17n,63p,638b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,17n,63p,638b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dis
 t/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm
 -ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-
@@ -1709,10 +1709,10 @@ ts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi
 10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
 -dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public
 /lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy6.pfb>
-Output written on main_file.pdf (39 pages, 7519253 bytes).
+Output written on main_file.pdf (39 pages, 7519342 bytes).
 PDF statistics:
- 597 PDF objects out of 1000 (max. 8388607)
- 491 compressed objects within 5 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 492 compressed objects within 5 object streams
+ 176 named destinations out of 1000 (max. 500000)
  373 words of extra memory for PDF output out of 10000 (max. 10000000)
 
